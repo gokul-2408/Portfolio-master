@@ -61,7 +61,7 @@ function Home2() {
             <div class="user1">
             <p><b>Name:</b> Akshara Madhusudhanan</p>
             <p><b>Role:</b> Frontend developer</p>
-            <p><b>Email:</b> aksharamadhusudhanan@gmail.com</p>
+            <p><b>Email:</b> akshara6782@gmail.com</p>
             </div>
         </div>
         <div class="part-4">
